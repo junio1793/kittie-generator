@@ -9,3 +9,5 @@ Currently, two official plugins are available:
 
 - <img width="1229" height="725" alt="image" src="https://github.com/user-attachments/assets/91af4488-b64e-4dcd-9686-4fa9e52dcaad" />
 
+<img width="1375" height="607" alt="image" src="https://github.com/user-attachments/assets/aad11af3-a2b9-4ab7-91f9-9f039944ed24" />
+
