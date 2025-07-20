@@ -18,7 +18,7 @@ function GetCats() {
   };
 
   return (
-    <div className="flex items-center w-full h-50">
+    <div className="pt-32 pb-20 flex flex-col items-center justify-center text-center">
       {!mostrouGatos ? (
         <ButtonGetCat onClick={handleBuscarGatin} label="Gerar Gatinhos" />
       ) : (
