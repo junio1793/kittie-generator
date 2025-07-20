@@ -1,11 +1,7 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Link => https://kittie-generator.vercel.app/
 
-Currently, two official plugins are available:
+<img width="961" height="650" alt="image" src="https://github.com/user-attachments/assets/a37b68d5-17a9-4216-9a3e-c0b8f52a146e" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-
-![alt text](image.png)
+<img width="1093" height="503" alt="image" src="https://github.com/user-attachments/assets/3c007dee-9b98-4bf0-8d24-d1d453649267" />
